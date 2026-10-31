@@ -22,11 +22,11 @@ The playbooks look for a product marketing context file before asking questions.
 ## Products
 - **Bio Retinol Elixir** (the Day oil), $95 CAD / 30ml. Whole bakuchi seed oil (psoralen-free), Gotu Kola, Rosehip. 18-Day Ayurvedic Phyto-Infusion applies to this product only. Badge framing: "Replaces: Retinol".
 - **Night Repair Elixir** (the Night oil), $85 CAD / 30ml. Black Seed, Tamanu, Hemp. Badge framing: "Replaces: BHA".
-- Also sold in 10ml sizes. SKU format: SB + product initials + size (e.g. SBNRE30).
-- **The Day & Night System**: both 30ml. **[confirm]** price: $150 vs $160, compare-at $180.
-- **Discovery set** (both 10ml). **[confirm]** name and price: "Discovery Duo" $58 vs "Discovery Set" $68.
+- Also sold in 10ml sizes: Bio Retinol $42, Night Repair $38. SKU format: SB + product initials + size (e.g. SBNRE30).
+- **Live in the store (checked Oct 30, 2026):** **Power Couple** (both 30ml, SKU SBPC30) $160 CAD, compare-at $180. **Discovery Set** (both 10ml, SKU SBDS10) $68 CAD, compare-at $80. The store is the source of truth for prices.
+- **[confirm]** Relaunch plans not yet in the store: renaming Power Couple to "The Day & Night System" at $150, and a "Discovery Duo" at $58. Don't use these names or prices until they appear in Shopify.
+- **[confirm]** Free-shipping threshold: brand notes say $80, but the Shipping page meta says $65 CAD / $50 USD. Don't quote a number until it's settled.
 - All products: pregnancy safe, waterless, vegan, Leaping Bunny, recyclable glass, synthetic-fragrance-free.
-- Free shipping over $80.
 
 ## Competitors
 - Core set: Vintner's Daughter, Ranavat, Herbivore, Tatcha, True Botanicals.

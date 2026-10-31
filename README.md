@@ -16,6 +16,7 @@ A Claude Code plugin that keeps working on search visibility for **Sapphire Bota
 | link-building | coreyhaines31/marketingskills | Links and brand mentions |
 | seo-ecommerce | agricidaniel/claude-seo | Product pages and product schema |
 | core-web-vitals | addyosmani/web-quality-skills | LCP, INP and CLS fixes |
+| performance | addyosmani/web-quality-skills | Supporting reference for core-web-vitals (measurement, RUM) |
 
 The nine playbooks are copied unmodified from these upstream commits. Each one passed NVIDIA SkillSpector (SAFE) before it was added.
 
