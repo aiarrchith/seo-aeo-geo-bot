@@ -29,8 +29,8 @@ The nine playbooks are copied unmodified from these upstream commits. Each one p
 ## Install in Claude Code
 
 ```
-/plugin marketplace add aiarrchith/seo-geo-aeo-bot
-/plugin install seo-geo-aeo-bot@aiarrchith-seo
+/plugin marketplace add aiarrchith/seo-aeo-geo-bot
+/plugin install seo-aeo-geo-bot@aiarrchith-seo
 ```
 
 Then ask: `run seo-ops in audit mode`.

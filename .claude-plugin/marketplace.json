@@ -3,7 +3,7 @@
   "owner": { "name": "Arrchith" },
   "plugins": [
     {
-      "name": "seo-geo-aeo-bot",
+      "name": "seo-aeo-geo-bot",
       "source": "./",
       "description": "SEO, AEO and GEO bot: seo-ops orchestrator plus nine pinned playbooks."
     }
