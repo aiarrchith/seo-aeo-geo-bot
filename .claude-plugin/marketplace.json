@@ -1,0 +1,11 @@
+{
+  "name": "aiarrchith-seo",
+  "owner": { "name": "Arrchith" },
+  "plugins": [
+    {
+      "name": "seo-geo-aeo-bot",
+      "source": "./",
+      "description": "SEO, AEO and GEO bot: seo-ops orchestrator plus nine pinned playbooks."
+    }
+  ]
+}
