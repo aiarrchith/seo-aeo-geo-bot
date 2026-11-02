@@ -25,7 +25,10 @@ The playbooks look for a product marketing context file before asking questions.
 - Also sold in 10ml sizes: Bio Retinol $42, Night Repair $38. SKU format: SB + product initials + size (e.g. SBNRE30).
 - **Live in the store (checked Oct 30, 2026):** **Power Couple** (both 30ml, SKU SBPC30) $160 CAD, compare-at $180. **Discovery Set** (both 10ml, SKU SBDS10) $68 CAD, compare-at $80. The store is the source of truth for prices.
 - **[confirm]** Relaunch plans not yet in the store: renaming Power Couple to "The Day & Night System" at $150, and a "Discovery Duo" at $58. Don't use these names or prices until they appear in Shopify.
-- **[confirm]** Free-shipping threshold: brand notes say $80, but the Shipping page meta says $65 CAD / $50 USD. Don't quote a number until it's settled.
+- Free shipping on orders of $65 CAD or $50 USD and over (settled by Arrchith, Nov 2, 2026).
+- Hero ingredients for Bio Retinol Elixir: bakuchi, rosehip and squalane (settled Nov 2, 2026).
+- Product descriptions in Shopify stay as they are unless Arrchith asks (decided Nov 2, 2026).
+- Every Journal article gets a unique cover image and a 'Why Sapphire Botanics' advantages section (decided Nov 2, 2026).
 - All products: pregnancy safe, waterless, vegan, Leaping Bunny, recyclable glass, synthetic-fragrance-free.
 
 ## Competitors
