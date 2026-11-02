@@ -20,7 +20,7 @@ The playbooks look for a product marketing context file before asking questions.
 - Values quality, minimalism and certainty. Already shops Sephora. Refuses synthetics, fragrance and fillers.
 
 ## Products
-- **Bio Retinol Elixir** (the Day oil), $95 CAD / 30ml. Whole bakuchi seed oil (psoralen-free), Gotu Kola, Rosehip. 18-Day Ayurvedic Phyto-Infusion applies to this product only. Badge framing: "Replaces: Retinol".
+- **Bio Retinol Elixir** (the Day oil), $95 CAD / 30ml. Hero ingredients: whole bakuchi seed oil (psoralen-free), rosehip and squalane; also contains gotu kola. 18-Day Ayurvedic Phyto-Infusion applies to this product only. Badge framing: "Replaces: Retinol".
 - **Night Repair Elixir** (the Night oil), $85 CAD / 30ml. Black Seed, Tamanu, Hemp. Badge framing: "Replaces: BHA".
 - Also sold in 10ml sizes: Bio Retinol $42, Night Repair $38. SKU format: SB + product initials + size (e.g. SBNRE30).
 - **Live in the store (checked Oct 30, 2026):** **Power Couple** (both 30ml, SKU SBPC30) $160 CAD, compare-at $180. **Discovery Set** (both 10ml, SKU SBDS10) $68 CAD, compare-at $80. The store is the source of truth for prices.
