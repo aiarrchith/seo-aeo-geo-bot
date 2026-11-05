@@ -1,6 +1,6 @@
 {
   "name": "seo-aeo-geo-bot",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "SEO, AEO and GEO bot for Sapphire Botanics: the seo-ops orchestrator plus nine pinned open-source playbooks (technical SEO, AI search, schema, content, architecture, programmatic SEO, links, ecommerce, Core Web Vitals).",
   "author": { "name": "Arrchith" },
   "license": "MIT"
